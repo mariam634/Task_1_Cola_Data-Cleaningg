@@ -1,7 +1,7 @@
 # Data Cleaning Task – Cola Dataset
 
 ## Task Overview
-This project was part of an internship data cleaning task where I was required to clean a raw dataset using **Excel**. The dataset used for this task is titled `Cola.csv`.
+This project was part of an internship data cleaning task where I was required to clean a raw dataset using **Excel**. The dataset used for this task is titled `Cola.xlsx`.
 
 ##  Objectives
 - Handle missing values
@@ -41,7 +41,7 @@ This project was part of an internship data cleaning task where I was required t
 ---
 
 ## Final Output
-- A cleaned version of the dataset named `Cola_Cleaned.csv` is included.
+- A cleaned version of the dataset named `Cola_Cleaned.xlsx` is included.
 - The dataset is now ready for use in data analysis or visualization tasks.
 
 ---
