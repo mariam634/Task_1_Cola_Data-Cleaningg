@@ -1,9 +1,9 @@
 # Data Cleaning Task – Cola Dataset
 
 ## Task Overview
-This project was part of an internship data cleaning task where I was required to clean a raw dataset. The dataset used for this task is titled `Cola.xlsx`.
+This project was part of an internship data cleaning task where I was required to clean a raw dataset using **Excel**. The dataset used for this task is titled `Cola.xlsx`.
 
-## Objectives
+##  Objectives
 - Handle missing values
 - Remove duplicate entries
 - Rename columns for consistency
@@ -18,7 +18,7 @@ This project was part of an internship data cleaning task where I was required t
 
 ---
 
-## Cleaning Steps Performed
+##  Cleaning Steps Performed
 
 1. **Removed Extra Rows:**
    - Deleted the first 3 rows which contained metadata and notes, not actual data.
@@ -46,6 +46,6 @@ This project was part of an internship data cleaning task where I was required t
 
 ---
 
-## About Me
+##  About Me
 This task was completed as part of my learning and internship in the data analysis field. I used this opportunity to gain real hands-on experience working with raw data in Excel.
 
