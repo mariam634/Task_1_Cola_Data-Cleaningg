@@ -10,7 +10,7 @@ This project was part of an internship data cleaning task where I was required t
 - Format numerical and date fields
 - Prepare a clean and structured dataset ready for analysis
 
-
+---
 
 ## Tools Used
 - Microsoft Excel
